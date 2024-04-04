@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsInShort</string>
+    <string name="no_news_as_of_now">No News as of now</string>
+</resources>
