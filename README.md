@@ -11,9 +11,9 @@ Dependency Injection with Hilt: Dependency management is streamlined with Hilt, 
 
 Immersive Experience with Vertical Pager: Navigate through news articles with a simple swipe, thanks to the fluid vertical pager implementation.
 
-![Screenshot_1712301926](https://github.com/BeingCoder786/ShortNews/assets/60469750/3c0e4aaa-e49e-4967-b01e-398fd5d3956e)
 
-<img src="![Screenshot_1712301926](https://github.com/BeingCoder786/ShortNews/assets/60469750/3c0e4aaa-e49e-4967-b01e-398fd5d3956e)" width="200" alt="App Screenshot"/>
+<img src="https://github.com/BeingCoder786/ShortNews/assets/60469750/3c0e4aaa-e49e-4967-b01e-398fd5d3956e/Screenshot_1712301926.png" width="200" alt="App Screenshot"/>
+
 
 
 
