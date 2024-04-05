@@ -13,7 +13,7 @@ Immersive Experience with Vertical Pager: Navigate through news articles with a 
 
 ![Screenshot_1712301926](https://github.com/BeingCoder786/ShortNews/assets/60469750/3c0e4aaa-e49e-4967-b01e-398fd5d3956e)
 
-<img src="(https://github.com/BeingCoder786/ShortNews/assets/60469750/3c0e4aaa-e49e-4967-b01e-398fd5d3956e)" width="200" alt="App Screenshot"/>
+<img src="![Screenshot_1712301926](https://github.com/BeingCoder786/ShortNews/assets/60469750/3c0e4aaa-e49e-4967-b01e-398fd5d3956e)" width="200" alt="App Screenshot"/>
 
 
 
