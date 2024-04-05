@@ -1,18 +1,6 @@
 Quick News - Your Brief News Digest
 Overview
-Quick News offers you a concise and engaging way to stay informed with the latest headlines. Built entirely with Jetpack Compose, our app delivers a modern, seamless news browsing experience. 
-Dive into the essence of the news without getting lost in the clutter - Quick News brings you short, impactful headlines, allowing you to grasp the day's events at a glance.
-
-*Features* :
-Headlines at Your Fingertips: Get instant access to the main news headlines, curated for quick consumption.
-
-Elegantly Composed: Crafted with Jetpack Compose, Quick News boasts a fluid, intuitive user interface that makes news reading a delight.
-
-Powered by NewsAPI.org: Leveraging the comprehensive resources of NewsAPI.org, Quick News ensures you receive reliable, up-to-date news coverage from across the globe.
-
-Seamless Navigation: Explore a variety of news stories with ease, thanks to our integration of the latest Navigation Graph technology.
-
-Dive Deeper When You Choose: While Quick News emphasizes brevity, it doesn't hold you back from exploring news stories in full detail.
+Quick News brings you short, impactful headlines, allowing you to grasp the day's events at a glance.
 
 Architecture
 Quick News is designed with the modern Android development landscape in mind:
